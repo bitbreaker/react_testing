@@ -9,10 +9,12 @@ const styles = {
 const App = () => (
 <div>
     <table id="myTable">
+    <thead>
     <tr>
     <th>Name</th>
     <th>Adresse</th>
     </tr>
+    </thead>
   <tr>
     <td>Entry One</td>
   </tr>
